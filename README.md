@@ -110,7 +110,7 @@ Flask, MongoDB, Chart.js
 
 ## 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email: [poojithaduvvaka@gmail.com](mailto:your-email@gmail.com)
 
 🔗 LinkedIn: https://linkedin.com/in/your-linkedin
 
