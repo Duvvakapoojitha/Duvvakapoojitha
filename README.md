@@ -112,7 +112,7 @@ Flask, MongoDB, Chart.js
 
 📧 Email: [poojithaduvvaka@gmail.com](mailto:your-email@gmail.com)
 
-🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/duvvaka-poojitha09/)
+🔗 LinkedIn: [linkedin.com/in/duvvaka-poojitha09](https://www.linkedin.com/in/duvvaka-poojitha09/)
 
 💻 GitHub: https://github.com/Duvvakapoojitha
 
